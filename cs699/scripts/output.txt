@@ -1,0 +1,25 @@
+Displaying the contents of the file:
+Name, Department, Hostel No, Room no
+Srichand Suresh, CSE, 15, 1006
+Abhiroop Kambhampati, CSE, 15, 1002
+Karthik, CSE, 6, 0603
+Praveen, EE, 15, 0918
+Poojith, CSE, 15, 0901
+Ram, CSE, 15, 1003
+Kowshick, CSE, 15, 1004
+
+Counting the total number of student records:
+7
+
+Sorting the file such that students sharing the hostel room are contiguous
+Karthik, CSE, 6, 0603
+Poojith, CSE, 15, 0901
+Praveen, EE, 15, 0918
+Abhiroop Kambhampati, CSE, 15, 1002
+Ram, CSE, 15, 1003
+Kowshick, CSE, 15, 1004
+Srichand Suresh, CSE, 15, 1006
+
+Displaying the count of students from different departments
+      6  CSE
+      1  EE
